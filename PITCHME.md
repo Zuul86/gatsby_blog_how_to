@@ -40,7 +40,7 @@ This data is used as metadata for the Gatsby build process.
 
 ---
 ## Resources
-@snap[west text-left]
+@snap[text-left]
 https://dev.azure.com/centare/Orbit/_wiki/wikis/Orbit.wiki/17/Centare-Website
 
 https://www.markdownguide.org/
