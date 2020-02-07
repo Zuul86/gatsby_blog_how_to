@@ -1,6 +1,6 @@
-# Gatsby
+# centare.com
 
-![CentareLogo](assets/Logomark_RGB@png)
+![CentareLogo](assets/logo.png)
 
-### A static site generator built on React!
+### How to create and publish a blog
 ---
