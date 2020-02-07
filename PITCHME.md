@@ -2,7 +2,7 @@
 
 ![CentareLogo](assets/logo.png)
 
-### Creating and publishing a blog post
+#### Creating and publishing a blog post
 ---
 ## Built with Gatsby
 
