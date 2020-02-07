@@ -30,17 +30,17 @@ _"Markdown is a lightweight markup language with plain-text-formatting syntax."_
 ---
 ## Frontmatter
 This data is used as metadata for the Gatsby build process.
-```
-status: "published"
-title: "My Blog Post"
-author: "John Doe"
-description: "I wrote a blog post. This is a brief description of it."
-image: "unique-image.png"
-date: "2019-08-6"
-```
+
+    status: "published"
+    title: "My Blog Post"
+    author: "John Doe"
+    description: "I wrote a blog post. This is a brief description of it."
+    image: "unique-image.png"
+    date: "2019-08-6"
+
 ---
 ## Resources
-
+@snap[text-left]
 https://dev.azure.com/centare/Orbit/_wiki/wikis/Orbit.wiki/17/Centare-Website
 
 https://www.markdownguide.org/
@@ -48,7 +48,7 @@ https://www.markdownguide.org/
 https://www.gatsbyjs.org/
 
 https://centareqa.netlify.com/
-
+@snapend
 ---
 ## Any Questions?
 
