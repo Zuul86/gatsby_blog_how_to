@@ -2,7 +2,7 @@
 
 ![CentareLogo](assets/logo.png)
 
-### How to create and publish a blog
+### Creating and publishing a blog post
 ---
 ## Built with Gatsby
 
@@ -19,7 +19,7 @@
 ---
 ## Additional Tools Option
 ![Node Tools](assets/node_tools.jpg)
-### Only for those on Windows w/o Visual Studio
+#### Only for those on Windows w/o Visual Studio
 ---
 ## Demo - Adding a Blog Post
 ---
