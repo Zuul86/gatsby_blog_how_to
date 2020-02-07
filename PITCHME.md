@@ -26,7 +26,7 @@
 ## Markdown
 _"Markdown is a lightweight markup language with plain-text-formatting syntax."_
 
-### Same as the old site
+#### Same as the old site
 ---
 ## Frontmatter
 This data is used as metadata for the Gatsby build process.
