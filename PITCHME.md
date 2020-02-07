@@ -15,11 +15,13 @@
 - Yarn
 - Git
 ---
+## Demo - Development Environment Setup
+---
 ## Additional Tools Option
 ![Node Tools](assets/node_tools.jpg)
 ### Only for those on Windows w/o Visual Studio
 ---
-# Adding a Blog Post
+## Demo - Adding a Blog Post
 ---
 ## Markdown
 _"Markdown is a lightweight markup language with plain-text-formatting syntax."_
