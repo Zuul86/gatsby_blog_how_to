@@ -1,6 +1,6 @@
 # Gatsby
 
-<img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="300">
+![CentareLogo](assets/Logomark_RGB@png)
 
 ### A static site generator built on React!
 ---
